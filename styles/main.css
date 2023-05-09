@@ -1,0 +1,55 @@
+.title {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 32pt;
+  margin: 1rem;
+  margin-left: 13rem;
+}
+
+.img-container {
+  position: relative;
+  margin: 1rem;
+}
+
+#img-broom {
+  position: absolute;
+  top: 450px;
+  left: 150px;
+}
+
+#img-calendar {
+  position: absolute;
+  top: 50px;
+  left: 500px;
+}
+
+#img-card {
+  position: absolute;
+  top: 400px;
+  left: 800px;
+}
+
+#img-cat {
+  position: absolute;
+  top: 350px;
+  left: 400px;
+}
+
+#img-clock {
+  position: absolute;
+  top: 30px;
+  left: 200px;
+}
+
+#img-doll {
+  position: absolute;
+  top: 400px;
+  left: 550px;
+}
+
+#img-laptop {
+  position: absolute;
+  top: 350px;
+  left: 80px;
+}
